@@ -1,5 +1,5 @@
 module.exports = {
-  'Prospect': ['Juan'],
+  'Prospect': ['Saucedo'],
   'Miembro': ['Alexandro','Emilio'],
   'Secratario': ['Nico'],
   "Sergent D'arm": ['?'],
