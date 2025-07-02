@@ -1,4 +1,4 @@
 module.exports = {
-  'Pink Paradise': ['Lead PK', 'Membre PK']
+  'Pink Paradise': ['Lead PP', 'Membre PP']
   'Lost': ['?']
 };
