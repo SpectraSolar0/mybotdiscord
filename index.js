@@ -32,7 +32,7 @@ client.once(Events.ClientReady, () => {
   console.log(`✅ Connecté en tant que ${client.user.tag}`);
   client.user.setPresence({
     status: 'online',
-    activities: [{ name: '15 Mayans ☠️', type: 3 }]
+    activities: [{ name: '5 Mayans ☠️', type: 3 }]
   });
 });
 
