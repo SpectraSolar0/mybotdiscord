@@ -1,7 +1,7 @@
 module.exports = {
-  'Prospect': ['Saucedo'],
+  'Prospect': ['Juan'],
   'Miembro': ['Alexandro','Emilio'],
-  'Secratario': ['Nico'],
+  'Secratario': ['Gustavo'],
   "Sergent D'arm": ['?'],
   'Road Captain': ['?'],
   'Vice Présidente': ['?'],
