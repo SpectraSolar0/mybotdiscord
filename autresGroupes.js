@@ -1,4 +1,4 @@
 module.exports = {
-  'Ballas': ['Tony', 'Ricky'],
-  'Vagos': ['Luis', 'Pablo']
+  'Pink Paradise': ['Lead', 'Membre']
+  'Lost': ['?']
 };
